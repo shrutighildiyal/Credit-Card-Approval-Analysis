@@ -1,5 +1,5 @@
 # Credit-Card-Approval-Analysis
-1. Problem statement
+# Problem statement
 As a top focus for acquiring new credit card customers, the credit card department uses 
 data driven credit assessment to evaluate the credit score of a customer.
 Based on the credit score the credit card approval for a customer is done. This credit 
